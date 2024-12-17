@@ -1,0 +1,1 @@
+pet.class=org.nexai.spring_container.example.dto.Cat
